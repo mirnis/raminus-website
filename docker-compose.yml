@@ -1,7 +1,7 @@
 version: '3'
 services:
   app:
-    image: srimani/raminus-website:1
+    image: srimani/raminus-website:3
     build: .
     ports:
       - "9005:9005"

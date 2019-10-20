@@ -1,4 +1,17 @@
-/* Icon font - MFG labs */
+@font-face {
+  font-family: 'Happy Monkey';
+  src: url('../font/happymonkey-regular-webfont.woff2') format('woff2'),
+  url('../font/happymonkey-regular-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Open Sans';
+  src: url('../font/opensans-regular-webfont.woff2') format('woff2'),
+  url('../font/opensans-regular-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
 @font-face {
   font-family: 'mfg';
     src: url('../font/mfglabsiconset-webfont.eot');
